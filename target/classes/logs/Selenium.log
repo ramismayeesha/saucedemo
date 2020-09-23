@@ -1,0 +1,42 @@
+00:04:09,555 DEBUG devpinoyLogger:76 - Chrome Launched ....
+00:04:10,518 DEBUG devpinoyLogger:85 - Navigated to: https://www.saucedemo.com/
+00:04:14,056 DEBUG devpinoyLogger:67 - ITEMSAVAILABLEVERIFIED Test Started $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+00:04:14,271 DEBUG devpinoyLogger:32 - There is not six items for sale
+00:04:14,385 DEBUG devpinoyLogger:36 - Sauce Labs Backpack
+carry.allTheThings() with the sleek, streamlined Sly Pack that melds uncompromising style with unequaled laptop and tablet protection.
+$29.99
+ADD TO CART
+Sauce Labs Bike Light
+A red light isn't the desired state in testing but it sure helps when riding your bike at night. Water-resistant with 3 lighting modes, 1 AAA battery included.
+$9.99
+ADD TO CART
+Sauce Labs Bolt T-Shirt
+Get your testing superhero on with the Sauce Labs bolt T-shirt. From American Apparel, 100% ringspun combed cotton, heather gray with red bolt.
+$15.99
+ADD TO CART
+Sauce Labs Fleece Jacket
+It's not every day that you come across a midweight quarter-zip fleece jacket capable of handling everything from a relaxing day outdoors to a busy day at the office.
+$49.99
+ADD TO CART
+Sauce Labs Onesie
+Rib snap infant onesie for the junior automation engineer in development. Reinforced 3-snap bottom closure, two-needle hemmed sleeved and bottom won't unravel.
+$7.99
+ADD TO CART
+Test.allTheThings() T-Shirt (Red)
+This classic Sauce Labs t-shirt is perfect to wear when cozying up to your keyboard to automate a few tests. Super-soft and comfy ringspun combed cotton.
+$15.99
+ADD TO CART
+00:04:16,085 DEBUG devpinoyLogger:84 - TestUtil.screenshotName=Tue_Sep_22_00_04_16_EDT_2020.jpg
+00:04:16,139 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+00:04:16,141 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+00:04:16,143 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+00:04:16,145 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+00:04:16,146 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/Ramis%20Mayeesha/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+00:04:16,586 DEBUG devpinoyLogger:67 - SWAGLABSLOGOVERIFIED Test Started $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+00:04:48,143 DEBUG devpinoyLogger:43 - TestUtil.screenshotName=Tue_Sep_22_00_04_48_EDT_2020.jpg
+00:04:48,145 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+00:04:48,146 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+00:04:48,148 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+00:04:48,151 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+00:04:48,152 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/Ramis%20Mayeesha/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+00:04:49,258 DEBUG devpinoyLogger:193 - Test Successfully Completed

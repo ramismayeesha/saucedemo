@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="4" total="6" passed="2" failed="0" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[Click to see Screenshot]]>
+    </line>
+    <line>
+      <![CDATA[<a target="_blank" href=Tue_Sep_22_00_07_00_EDT_2020.jpg>Screenshot</a>]]>
+    </line>
+    <line>
+      <![CDATA[<br>]]>
+    </line>
+    <line>
+      <![CDATA[<br>]]>
+    </line>
+    <line>
+      <![CDATA[<a target="_blank" href=Tue_Sep_22_00_07_00_EDT_2020.jpg><img src=Tue_Sep_22_00_07_00_EDT_2020.jpg height=200 width=200></img></a>]]>
+    </line>
+    <line>
+      <![CDATA[Click to see Screenshot]]>
+    </line>
+    <line>
+      <![CDATA[<a target="_blank" href=Tue_Sep_22_00_07_04_EDT_2020.jpg>Screenshot</a>]]>
+    </line>
+    <line>
+      <![CDATA[<br>]]>
+    </line>
+    <line>
+      <![CDATA[<br>]]>
+    </line>
+    <line>
+      <![CDATA[<a target="_blank" href=Tue_Sep_22_00_07_04_EDT_2020.jpg><img src=Tue_Sep_22_00_07_04_EDT_2020.jpg height=200 width=200></img></a>]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2020-09-22T00:06:59 EDT" name="Suite" finished-at="2020-09-22T00:07:04 EDT" duration-ms="5186">
+    <groups>
+    </groups>
+    <test started-at="2020-09-22T00:06:59 EDT" name="Test" finished-at="2020-09-22T00:07:04 EDT" duration-ms="5186">
+      <class name="com.saucedemo.base.TestBase">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.saucedemo.base.TestBase@1b955cac]" started-at="2020-09-22T00:06:51 EDT" name="setUp" finished-at="2020-09-22T00:06:59 EDT" duration-ms="7488" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.saucedemo.base.TestBase@1b955cac]" started-at="2020-09-22T00:07:04 EDT" name="tearDown" finished-at="2020-09-22T00:07:05 EDT" duration-ms="1097" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.saucedemo.base.TestBase -->
+      <class name="com.saucedemo.testcases.LogInandOut">
+        <test-method is-config="true" signature="login()[pri:0, instance:com.saucedemo.testcases.LogInandOut@676cf48]" started-at="2020-09-22T00:06:59 EDT" name="login" finished-at="2020-09-22T00:07:00 EDT" duration-ms="732" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method is-config="true" signature="logout()[pri:0, instance:com.saucedemo.testcases.LogInandOut@676cf48]" started-at="2020-09-22T00:07:04 EDT" name="logout" finished-at="2020-09-22T00:07:04 EDT" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logout -->
+      </class> <!-- com.saucedemo.testcases.LogInandOut -->
+      <class name="com.saucedemo.testcases.SwaglabsVerified">
+        <test-method signature="itemsAvailableVerified()[pri:0, instance:com.saucedemo.testcases.SwaglabsVerified@5a1de7fb]" started-at="2020-09-22T00:07:00 EDT" name="itemsAvailableVerified" finished-at="2020-09-22T00:07:00 EDT" duration-ms="107" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Click to see Screenshot]]>
+            </line>
+            <line>
+              <![CDATA[<a target="_blank" href=Tue_Sep_22_00_07_00_EDT_2020.jpg>Screenshot</a>]]>
+            </line>
+            <line>
+              <![CDATA[<br>]]>
+            </line>
+            <line>
+              <![CDATA[<br>]]>
+            </line>
+            <line>
+              <![CDATA[<a target="_blank" href=Tue_Sep_22_00_07_00_EDT_2020.jpg><img src=Tue_Sep_22_00_07_00_EDT_2020.jpg height=200 width=200></img></a>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- itemsAvailableVerified -->
+        <test-method signature="swagLabsLogoVerified()[pri:0, instance:com.saucedemo.testcases.SwaglabsVerified@5a1de7fb]" started-at="2020-09-22T00:07:01 EDT" name="swagLabsLogoVerified" finished-at="2020-09-22T00:07:04 EDT" duration-ms="3083" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Click to see Screenshot]]>
+            </line>
+            <line>
+              <![CDATA[<a target="_blank" href=Tue_Sep_22_00_07_04_EDT_2020.jpg>Screenshot</a>]]>
+            </line>
+            <line>
+              <![CDATA[<br>]]>
+            </line>
+            <line>
+              <![CDATA[<br>]]>
+            </line>
+            <line>
+              <![CDATA[<a target="_blank" href=Tue_Sep_22_00_07_04_EDT_2020.jpg><img src=Tue_Sep_22_00_07_04_EDT_2020.jpg height=200 width=200></img></a>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- swagLabsLogoVerified -->
+      </class> <!-- com.saucedemo.testcases.SwaglabsVerified -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

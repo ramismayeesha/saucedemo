@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Test"
+           tests="2"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="3.190">
+  <properties />
+  
+  
+            <testcase name="itemsAvailableVerified" time="0.107" classname="com.saucedemo.testcases.SwaglabsVerified" />
+                <testcase name="swagLabsLogoVerified" time="3.083" classname="com.saucedemo.testcases.SwaglabsVerified" />
+      
+</testsuite>
